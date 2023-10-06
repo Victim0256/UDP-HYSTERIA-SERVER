@@ -13,7 +13,7 @@ set -e
 ###
 
 # Domain Name
-DOMAIN="vpn.khaledagn.com"
+DOMAIN="www.bing.com"
 
 # PROTOCOL
 PROTOCOL="udp"
@@ -22,10 +22,10 @@ PROTOCOL="udp"
 UDP_PORT=":36712"
 
 # OBFS
-OBFS="agnudp"
+OBFS="victim0256OBFS"
 
 # PASSWORDS
-PASSWORD="agnudp"
+PASSWORD="victom0256"
 
 # Basename of this script
 SCRIPT_NAME="$(basename "$0")"
