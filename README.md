@@ -6,7 +6,7 @@ THIS IS A SCRIPT FOR AUTO INSTALLATION OF UDP (HYSTERIA SERVER)
 
 // Download the script
 ```
-wget https://github.com/khaledagn/AGN-UDP/raw/main/install_agnudp.sh
+wget https://github.com/Victim0256/UDP-HYSTERIA-SERVER/raw/main/install_agnudp.sh
 ```
 // Edit script configuration 
 ```
